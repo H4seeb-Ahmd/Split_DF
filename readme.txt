@@ -1,0 +1,15 @@
+SPLIT DF
+
+you can list the page numbers and the required file name to automatically split the pdf into many parts
+
+create a text document in the following format:
+____________________________________________
+filename1: start-end
+filename2: start-end
+filename3: start-end
+.
+.
+.
+_____________________________________________
+
+WARNING: MAKE SURE THE FILE DOESNT HAVE A PASSWORD

@@ -112,11 +112,7 @@ def Menu():
 
     browseOutButton = tk.Button(MainFrame, text = "BROWSE", font = ('Courier', 10), command = lambda: BrowseButton("out"), bg = "#689D9E", activebackground = "#689D9E")
     browseOutButton.place(anchor = tk.N, x = 400, y = 150)
-
-    
-    #filePath = filedialog.askopenfilename()
-    #print(filePath)
-    
+  
 
     window.mainloop()
 

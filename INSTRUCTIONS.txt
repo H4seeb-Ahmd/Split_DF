@@ -12,6 +12,6 @@ filename3: start-end
 .
 ____________________
 
-open 'splitter.py' with python to run the application
+run 'splitter.py' with python to start the application
 
 WARNING: MAKE SURE THE FILE DOESNT HAVE A PASSWORD

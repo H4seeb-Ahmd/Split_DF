@@ -70,8 +70,7 @@ def Menu():
     window.title("SPLIT DF")
     window.resizable(False, False)
 
-    ##idk how these two lines work
-    myappid = 'mycompany.myproduct.subproduct.version' # arbitrary string
+    myappid = 'CBC.Windu.SplitDF.0'
     ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
 
     window.iconbitmap("logo.ico")

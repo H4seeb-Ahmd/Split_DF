@@ -3,14 +3,14 @@ SPLIT DF
 you can list the page numbers and the required file name to automatically split the pdf into many parts
 
 create a text file(.txt) in the following format:
-____________________________________________
+____________________
 filename1: start-end
 filename2: start-end
 filename3: start-end
 .
 .
 .
-_____________________________________________
+____________________
 
 open 'splitter.py' with python to run the application
 

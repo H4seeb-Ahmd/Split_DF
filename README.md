@@ -4,12 +4,8 @@ You can list the page numbers and the required file name to split the pdf into m
 
 create a text file(.txt) in the following format:
 ____________________
-filename1: start(inclusive)-end(inclusive)
-filename2: start-end
-filename3: start-end
-.
-.
-.
+<img width="912" height="292" alt="image" src="https://github.com/user-attachments/assets/39055d03-f276-4b4a-8af2-a66a33776a99" />
+
 ____________________
 
 Run 'splitter.py' in Python to start the application

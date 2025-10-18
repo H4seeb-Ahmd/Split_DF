@@ -1,10 +1,10 @@
 SPLIT DF
 
-you can list the page numbers and the required file name to automatically split the pdf into many parts
+You can list the page numbers and the required file name to automatically split the pdf into many parts
 
 create a text file(.txt) in the following format:
 ____________________
-filename1: start-end
+filename1: start(inclusive)-end(inclusive)
 filename2: start-end
 filename3: start-end
 .
@@ -12,6 +12,11 @@ filename3: start-end
 .
 ____________________
 
-run 'splitter.py' with python to start the application
+Run 'splitter.py' in Python to start the application
 
-WARNING: MAKE SURE THE FILE DOESNT HAVE A PASSWORD
+
+NOTE: 
+  Make sure the PDF file you're splitting doesn't have a password.
+  The filenames you split the PDF into must not contain ':'.
+
+

@@ -13,9 +13,14 @@ Run 'splitter.py' in Python to start the application
 
 NOTE: 
   Make sure the PDF file you're splitting doesn't have a password.
+  
   The filenames you split the PDF into must not contain whitespaces.
+  
   Make sure there is a space after the colon(:)
+  
   Make sure there is no space before or after the hyphen(-) when defining the range
+
+  
 
 
 created by: HASEEB AHMED;
